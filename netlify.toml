@@ -1,0 +1,3 @@
+# Tells Netlify the live app lives in the pulsenew folder.
+[build]
+  publish = "pulsenew"
